@@ -486,11 +486,11 @@
         {
          "columns":94,
          "firstgid":2956,
-         "image":"tilesets\/napari.png",
+         "image":"tilesets\/napari-island.png",
          "imageheight":1998,
          "imagewidth":3032,
          "margin":0,
-         "name":"napari",
+         "name":"napari-island",
          "spacing":0,
          "tilecount":5828,
          "tileheight":32,
